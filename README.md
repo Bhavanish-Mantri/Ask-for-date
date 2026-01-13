@@ -5,6 +5,13 @@ The experience is enhanced with animated GIFs and clever button behavior that ma
 
 ---
 
+## 🌐 Live Demo
+
+Experience the project live here:  
+👉 **https://bhavanish-mantri.github.io/Ask-for-date/**
+
+---
+
 ## ✨ Features
 
 - 🎀 **Cute animated GIFs** that change based on user interaction  
